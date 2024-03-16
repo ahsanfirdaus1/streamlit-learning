@@ -14,7 +14,7 @@ with dataset:
     st.header('NYC taxi dataset')
     st.text('I found this dataset on kaggle.com')
 
-    taxi_data = pd.read_csv('taxi_data.csv')
+    taxi_data = pd.read_csv('dataset\\taxi\\taxi_fare\\submission.csv')
     st.write(taxi_data.head(20))
 
 
