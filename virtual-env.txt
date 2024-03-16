@@ -1,0 +1,20 @@
+OS : LINUX UBUNTU 20
+
+Virtual Environment
+Name: env-skripsi
+
+#check virtual Environment Version
+virtualenv --version
+
+#create a virtual Environment
+virtualenv virtualenv_name
+
+#activate virtual env in UBUNTU
+source virtualenv_name/bin/activate
+
+*virtualenv_name change into env-skripsi
+
+#deactivate
+deactivate
+
+
