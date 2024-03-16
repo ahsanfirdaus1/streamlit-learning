@@ -24,6 +24,9 @@ with dataset:
 
 with features:
     st.header('The features I created')
+
+    st.markdown('* **first feature:** I created this feature because of this.. I calculated this logic..')
+    st.markdown('* **second feature:** I created this feature because of this.. I calculated this logic..')
     
 
 
